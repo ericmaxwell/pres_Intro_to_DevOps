@@ -1,2 +1,2 @@
-# pres_Intro_to_DevOps
+# Intro to DevOps
 My introduction to DevOps presentation
